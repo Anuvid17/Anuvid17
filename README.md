@@ -54,6 +54,4 @@ Happy coding! 💻✨</p>
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Anuvid17/Anuvid17/output/snake.svg" alt="Snake animation" />
-
 ###
