@@ -34,7 +34,6 @@
 <!--
 <img src="https://raw.githubusercontent.com/Anuvid17/Anuvid17/output/snake.svg" alt="Snake animation" />
 -->
-<img src=".github/workflows" alt="Snake animation">
 ###
 
 <div align="center">
