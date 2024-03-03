@@ -1,4 +1,14 @@
-<h2 align="left">Hi 👋! My name is Anuvid Mishra and I'm the front-end web developer. I am currently learning the full stack web development with python and I am looking for the collaboration or project for the web development.</h2>
+<h2 align="left">👋 Hello, World! I'm Anuvid Mishra.
+
+🌟 Welcome to my corner of the GitHub universe! I'm passionate about coding, especially in the realm of front-end web development, and I'm currently on an exciting journey learning full-stack web development.
+
+🚀 As someone deeply invested in creating intuitive user experiences and captivating interfaces, I find myself drawn to the endless possibilities of web development. From crafting responsive layouts to delving into the intricacies of JavaScript frameworks, I'm constantly exploring and expanding my skills in this dynamic field.
+
+💡 Eager to dive deeper into the world of full-stack development, I'm actively seeking opportunities to collaborate with like-minded individuals on meaningful projects. Whether it's building robust web applications, experimenting with new technologies, or simply brainstorming innovative ideas, I'm always ready to roll up my sleeves and code.
+
+🔭 Feel free to reach out if you're interested in collaborating! Let's combine our skills, share our knowledge, and create something extraordinary together.
+
+Happy coding! 💻✨</h2>
 
 ###
 
