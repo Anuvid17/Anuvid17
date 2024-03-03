@@ -1,5 +1,6 @@
-<h2 align="left">👋 Hello, World! I'm Anuvid Mishra.
+<h2 align="left">👋 Hello, World! I'm Anuvid Mishra.</h2>
 
+<p>
 🌟 Welcome to my corner of the GitHub universe! I'm passionate about coding, especially in the realm of front-end web development, and I'm currently on an exciting journey learning full-stack web development.
 
 🚀 As someone deeply invested in creating intuitive user experiences and captivating interfaces, I find myself drawn to the endless possibilities of web development. From crafting responsive layouts to delving into the intricacies of JavaScript frameworks, I'm constantly exploring and expanding my skills in this dynamic field.
@@ -8,7 +9,7 @@
 
 🔭 Feel free to reach out if you're interested in collaborating! Let's combine our skills, share our knowledge, and create something extraordinary together.
 
-Happy coding! 💻✨</h2>
+Happy coding! 💻✨</p>
 
 ###
 
